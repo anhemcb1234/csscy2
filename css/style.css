@@ -282,3 +282,19 @@ i#togglePassword {
     bottom: 29%;
     cursor: pointer;
 }
+.test {
+    height: 300px;
+    width: 300px;
+    background-color: antiquewhite;
+    margin: 80px;
+    position: relative;
+}
+.test div {
+    height: 300px;
+    width: 300px;
+    border-radius: 80%;
+    background-color: #5f9ea0;
+    position: absolute;
+    right: -60%;
+    
+}
