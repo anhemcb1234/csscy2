@@ -172,7 +172,9 @@ button.head-login-x:hover {
 .footer-login a {
     color: #0085ff;
 }
-
+.footer-login p {
+    opacity: 0.7;
+}
 
 
 .blog {
@@ -277,4 +279,5 @@ i#togglePassword {
     position: absolute;
     right: 4%;
     bottom: 29%;
+    cursor: pointer;
 }
