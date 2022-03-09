@@ -179,7 +179,7 @@ button.head-login-x:hover {
     display: flex;
     margin: 50px auto;
     padding: 40px;
-    border: 5px solid black;
+    border: 5px solid #8cc5f9;
     height: auto;
     position: relative;
     background-color: #fff;
@@ -192,6 +192,7 @@ button.head-login-x:hover {
     flex-grow: 1;
     border-radius: 20px;
     height: 100%;
+    border: none;
 }
 .blog .content {
     width: 50%;
