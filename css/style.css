@@ -272,8 +272,9 @@ button.head-login-x:hover {
     position: absolute;
     height: 200px;
     width: 200px;
-    color: blue;
-    z-index: 1;
+    background-color: #5f9ea0;
+    right: 0;
+    bottom: 0;
 }
 i#togglePassword {
     position: absolute;
