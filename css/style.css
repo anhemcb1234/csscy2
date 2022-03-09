@@ -255,3 +255,25 @@ button.head-login-x:hover {
     position: absolute;
     background-color: aqua;
 }
+
+
+.dox {
+    height: 400px;
+    width: 400px;
+    border-radius: 80%;
+    background-color: red;
+    margin: 80px;
+    position: relative;
+}
+.see {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    color: blue;
+    z-index: 1;
+}
+i#togglePassword {
+    position: absolute;
+    right: 4%;
+    bottom: 29%;
+}
